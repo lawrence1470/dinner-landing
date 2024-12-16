@@ -49,7 +49,7 @@
 
 .navBar {
     padding: 30px;
-    margin-bottom: 400px;
+    margin-bottom: 200px;
     display: flex;
     justify-content: space-between;
 }
@@ -72,8 +72,8 @@
 }
 
 .slideTitleContainer {
-    --titleHeight: 100px;
-    font-size: 72px;
+    --titleHeight: 120px;
+    font-size: 48px;
     height: var(--titleHeight);
     overflow: hidden;
 }
@@ -197,8 +197,8 @@
     }
 
     .slideTitleContainer {
-        --titleHeight: 80px;
-        font-size: 55px;
+        --titleHeight: 130px;
+        font-size: 40px;
     }
 
     .slidesList {
