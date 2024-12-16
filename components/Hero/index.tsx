@@ -4,7 +4,7 @@ import React, { useEffect, useState, useRef } from 'react'
 import styles from "./SliderDemo.module.css"
 import IMG_3456 from '@/public/images/IMG_3480.jpg'
 import IMG_3457 from '@/public/images/IMG_7634.jpg'
-import Dinner_Jazz from '@/public/images/Dinner_Jazz.jpg'
+import Dinner_Jazz from '@/public/images/dinner_jazz.jpg'
 import Dinner_Jazz_2 from '@/public/images/Engagement Party-5.jpg'
 import BookingImageBackground from "@/public/images/IMG_3555.png"
 import BookingImage from '@/public/images/IMG_3553.png'
